@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-Sophmore CIS Major @ Buff State
-Learning C++, Java, HTML, & CSS
-👨‍🎓'26
+<br>Sophmore CIS Major @ Buff State<br>
+<br>Learning C++, Java, HTML, & CSS<br>
+<br>👨‍🎓'26<br>
